@@ -1,0 +1,145 @@
+{
+  "Name": "Таксофон № 83",
+  "PayWay": "карта",
+  "global_id": 282185332,
+  "signature_date": "21.12.2016 12:58:32",
+  "Address": "Юго-Западный административный округ, Академический район, Бабушкина Ивана улица, дом 15, корпус 5, Школа № 104",
+  "Latitude_WGS84": "55.684159",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 2038,
+  "duplicate_id": 0
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185432,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Юго-Западный административный округ, Академический район, Бабушкина Ивана улица, дом 15, корпус 5, Школа № 104",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4328,
+  "duplicate_id": 0
+}
+{
+  "Name": "Таксофон № 95",
+  "PayWay": "карта",
+  "global_id": 282145444,
+  "signature_date": "21.12.2016 12:58:36",
+  "Address": "Юго-Западный административный округ, район Тёплый Стан, Бакулева академика улица, дом 20",
+  "Latitude_WGS84": "55.640772",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4129,
+  "duplicate_id": 1
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185444,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Юго-Западный административный округ, район Тёплый Стан, Бакулева академика улица, дом 20",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 7129,
+  "duplicate_id": 1
+}
+{
+  "Name": "Таксофон № 82",
+  "PayWay": "карта",
+  "global_id": 282185431,
+  "signature_date": "21.12.2016 12:58:30",
+  "Address": "Северный административный округ, район Аэропорт, Аэропортовская 1-я улица,  Школа № 152",
+  "Latitude_WGS84": "55.80099",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 1190,
+  "duplicate_id": 2
+}
+{
+  "Name": null,
+  "PayWay": "наличные",
+  "global_id": 282185431,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Северный административный округ, район Аэропорт, Аэропортовская 1-я улица,  Школа № 152",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 3190,
+  "duplicate_id": 2
+}
+{
+  "Name": "Таксофон № 139",
+  "PayWay": "карта",
+  "global_id": 282185488,
+  "signature_date": "21.12.2016 12:58:33",
+  "Address": "Северный административный округ, Бескудниковский район, Бескудниковский бульвар, дом 12",
+  "Latitude_WGS84": "55.86806",
+  "ValidUniversalServicesCard": "действует",
+  "IntercityConnectionPayment": "платно",
+  "ID": 4994890650,
+  "duplicate_id": 3
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185486,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Северный административный округ, Бескудниковский район, Бескудниковский бульвар, дом 12",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 536,
+  "duplicate_id": 3
+}
+{
+  "Name": "Таксофон № 75",
+  "PayWay": "карта",
+  "global_id": 292485424,
+  "signature_date": "21.12.2016 12:58:30",
+  "Address": "Западный административный округ, район Фили-Давыдково, Артамонова улица, дом 6, корпус 2",
+  "Latitude_WGS84": "55.719972",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 603,
+  "duplicate_id": 4
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185424,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Западный административный округ, район Фили-Давыдково, Артамонова улица, дом 6, корпус 2",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 603,
+  "duplicate_id": 4
+}
+{
+  "Name": "Таксофон № 77",
+  "PayWay": "карта",
+  "global_id": 282185426,
+  "signature_date": "21.12.2016 12:58:31",
+  "Address": "Юго-Восточный административный округ, район Текстильщики, Артюхиной улица, дом 17",
+  "Latitude_WGS84": "55.697489",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 2936,
+  "duplicate_id": 5
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185426,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Юго-Восточный административный округ, район Текстильщики, Артюхиной улица, дом 17",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 3936,
+  "duplicate_id": 5
+}
+
