@@ -1,0 +1,118 @@
+﻿[
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185432,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Юго-Западный административный округ, Академический район, Бабушкина Ивана улица, дом 15, корпус 5, Школа № 104",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 4328,
+        "duplicate_id": 0
+    },
+    {
+        "Name": null,
+        "PayWay": "наличные",
+        "global_id": 282185431,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Северный административный округ, район Аэропорт, Аэропортовская 1-я улица,  Школа № 152",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 3190,
+        "duplicate_id": 3
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185486,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Северный административный округ, Бескудниковский район, Бескудниковский бульвар, дом 12",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 536,
+        "duplicate_id": 4
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185426,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Юго-Восточный административный округ, район Текстильщики, Артюхиной улица, дом 17",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 3936,
+        "duplicate_id": 5
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185424,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Западный административный округ, район Фили-Давыдково, Артамонова улица, дом 6, корпус 2",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 603,
+        "duplicate_id": 2
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185444,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Юго-Западный административный округ, район Тёплый Стан, Бакулева академика улица, дом 20",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 7129,
+        "duplicate_id": 1
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185445,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Юго-Восточный административный округ, район Лефортово, Красноказарменная улица, дом 16",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 4992656212
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185591,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Восточный административный округ, район Богородское, Ивантеевская улица, дом 25",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 4991601485
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185593,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Северо-Восточный административный округ, район Свиблово, Ивовая улица, дом 3",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 4991806725
+    },
+    {
+        "Name": null,
+        "PayWay": "карта",
+        "global_id": 282185619,
+        "signature_date": "01.01.1970 00:00:00",
+        "Address": "Южный административный округ, район Царицыно, Кавказский бульвар, дом 16, корпус 2,",
+        "Latitude_WGS84": null,
+        "ValidUniversalServicesCard": "не действует",
+        "IntercityConnectionPayment": "бесплатно",
+        "ID": 4953251182
+    }
+]
