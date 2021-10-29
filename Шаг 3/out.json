@@ -1,0 +1,143 @@
+{
+    "Name": "Таксофон № 83",
+    "PayWay": "карта",
+    "global_id": 282185432,
+    "signature_date": "21.12.2016 12:58:32",
+    "Address": "Юго-Западный административный округ, Академический район, Бабушкина Ивана улица, дом 15, корпус 5, Школа № 104",
+    "Latitude_WGS84": "55.684159",
+    "ValidUniversalServicesCard": "не действует",
+    "IntercityConnectionPayment": "бесплатно",
+    "ID": 3183
+}
+{
+    "Name": "Таксофон № 95",
+    "PayWay": "карта",
+    "global_id": 282185444,
+    "signature_date": "21.12.2016 12:58:36",
+    "Address": "Юго-Западный административный округ, район Тёплый Стан, Бакулева академика улица, дом 20",
+    "Latitude_WGS84": "55.640772",
+    "ValidUniversalServicesCard": "не действует",
+    "IntercityConnectionPayment": "бесплатно",
+    "ID": 5629
+}
+{
+    "Name": "Таксофон № 75",
+    "PayWay": "карта",
+    "global_id": 282185424,
+    "signature_date": "21.12.2016 12:58:30",
+    "Address": "Западный административный округ, район Фили-Давыдково, Артамонова улица, дом 6, корпус 2",
+    "Latitude_WGS84": "55.719972",
+    "ValidUniversalServicesCard": "не действует",
+    "IntercityConnectionPayment": "бесплатно",
+    "ID": 603
+}
+{
+    "Name": "Таксофон № 82",
+    "PayWay": "наличные",
+    "global_id": 282185431,
+    "signature_date": "21.12.2016 12:58:30",
+    "Address": "Северный административный округ, район Аэропорт, Аэропортовская 1-я улица,  Школа № 152",
+    "Latitude_WGS84": "55.80099",
+    "ValidUniversalServicesCard": "не действует",
+    "IntercityConnectionPayment": "бесплатно",
+    "ID": 2190
+}
+{
+    "Name": "Таксофон № 139",
+    "PayWay": "карта",
+    "global_id": 282185486,
+    "signature_date": "21.12.2016 12:58:33",
+    "Address": "Северный административный округ, Бескудниковский район, Бескудниковский бульвар, дом 12",
+    "Latitude_WGS84": "55.86806",
+    "ValidUniversalServicesCard": "действует",
+    "IntercityConnectionPayment": "бесплатно",
+    "ID": 593
+}
+{
+    "Name": "Таксофон № 77",
+    "PayWay": "карта",
+    "global_id": 282185426,
+    "signature_date": "21.12.2016 12:58:31",
+    "Address": "Юго-Восточный административный округ, район Текстильщики, Артюхиной улица, дом 17",
+    "Latitude_WGS84": "55.697489",
+    "ValidUniversalServicesCard": "не действует",
+    "IntercityConnectionPayment": "бесплатно",
+    "ID": 3436
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185445,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Юго-Восточный административный округ, район Лефортово, Красноказарменная улица, дом 16",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4992656212
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185591,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Восточный административный округ, район Богородское, Ивантеевская улица, дом 25",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4991601485
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185593,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Северо-Восточный административный округ, район Свиблово, Ивовая улица, дом 3",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4991806725
+}
+{
+  "Name": null,
+  "PayWay": "карта",
+  "global_id": 282185619,
+  "signature_date": "01.01.1970 00:00:00",
+  "Address": "Южный административный округ, район Царицыно, Кавказский бульвар, дом 16, корпус 2,",
+  "Latitude_WGS84": null,
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4953251182
+}
+{
+  "Name": "Таксофон № 84",
+  "PayWay": "карта",
+  "global_id": 282185433,
+  "signature_date": "21.12.2016 12:58:33",
+  "Address": "Западный административный округ, район Филёвский Парк, станция Метро Багратионовская",
+  "Latitude_WGS84": "55.743497",
+  "ValidUniversalServicesCard": "действует",
+  "IntercityConnectionPayment": "платно",
+  "ID": 4991486662
+}
+{
+  "Name": "Таксофон № 80",
+  "PayWay": "карта",
+  "global_id": 282185429,
+  "signature_date": "21.12.2016 12:58:32",
+  "Address": "Северо-Западный административный округ, район Южное Тушино, Аэродромная улица, дом 9, Школа № 1051",
+  "Latitude_WGS84": "55.847162",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "бесплатно",
+  "ID": 4959490591
+}
+{
+  "Name": "Таксофон № 79",
+  "PayWay": "карта",
+  "global_id": 282185428,
+  "signature_date": "21.12.2016 12:58:31",
+  "Address": "Центральный административный округ, район Арбат, Афанасьевский большая переулок, дом 27, Школа № 1233",
+  "Latitude_WGS84": "55.748531",
+  "ValidUniversalServicesCard": "не действует",
+  "IntercityConnectionPayment": "платно",
+  "ID": 4956906418
+}
